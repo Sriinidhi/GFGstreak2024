@@ -11,3 +11,5 @@ For 404 error of vieing problem statement, login into your gfg account and click
 **Day 4** 15/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/binary-tree-to-dll/                         BT, DLL
 
 **Day 5** 16/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/              str, stacks
+
+**Day 6** 17/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/minimize-the-heights3351/                   maths, logic, for, while
