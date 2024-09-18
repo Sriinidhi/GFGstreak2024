@@ -13,3 +13,7 @@ For 404 error of vieing problem statement, login into your gfg account and click
 **Day 5** 16/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/              str, stacks
 
 **Day 6** 17/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/minimize-the-heights3351/                   maths, logic, for, while
+
+**Day 7** 18/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1                   stack
+
+**Day 8** 19/9/24 PS-Link:   
