@@ -17,3 +17,11 @@ For 404 error of vieing problem statement, login into your gfg account and click
 **Day 7** 18/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1                   stack
 
 **Day 8** 19/9/24 PS-Link:   
+
+**Day 9** 20/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/facing-the-sun2126/1                       if , simple
+
+**Day 10** 19/9/24 PS-Link:   
+
+**Day 11** 19/9/24 PS-Link:   
+
+**Day 12** 19/9/24 PS-Link:   
