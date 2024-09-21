@@ -20,7 +20,7 @@ For 404 error of vieing problem statement, login into your gfg account and click
 
 **Day 9** 20/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/facing-the-sun2126/1                       if , simple
 
-**Day 10** 19/9/24 PS-Link:   
+**Day 10** 21/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1   
 
 **Day 11** 19/9/24 PS-Link:   
 
