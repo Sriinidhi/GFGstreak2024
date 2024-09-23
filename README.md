@@ -24,4 +24,4 @@ For 404 error of vieing problem statement, login into your gfg account and click
 
 **Day 11** 22/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1      
 
-**Day 12** 19/9/24 PS-Link:   
+**Day 12** 23/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1                 
