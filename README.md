@@ -25,3 +25,5 @@ For 404 error of vieing problem statement, login into your gfg account and click
 **Day 11** 22/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1      
 
 **Day 12** 23/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1                 
+
+**Day 13** 24/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1
