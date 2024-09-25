@@ -27,3 +27,15 @@ For 404 error of vieing problem statement, login into your gfg account and click
 **Day 12** 23/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1                 
 
 **Day 13** 24/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1
+
+**Day 14** 25/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1
+
+**Day 13** 24/9/24 PS-Link:   
+
+**Day 13** 24/9/24 PS-Link:   
+
+**Day 13** 24/9/24 PS-Link:   
+
+**Day 13** 24/9/24 PS-Link:   
+
+**Day 13** 24/9/24 PS-Link:   
