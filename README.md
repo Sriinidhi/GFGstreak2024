@@ -32,7 +32,7 @@ For 404 error of vieing problem statement, login into your gfg account and click
 
 **Day 15** 26/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/roof-top-1587115621/1
 
-**Day 13** 24/9/24 PS-Link:   
+**Day 16** 27/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
 
 **Day 13** 24/9/24 PS-Link:   
 
