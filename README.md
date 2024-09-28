@@ -34,7 +34,7 @@ For 404 error of vieing problem statement, login into your gfg account and click
 
 **Day 16** 27/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
 
-**Day 13** 24/9/24 PS-Link:   
+**Day 17** 28/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/minimal-cost/1
 
 **Day 13** 24/9/24 PS-Link:   
 
