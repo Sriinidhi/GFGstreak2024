@@ -38,4 +38,4 @@ For 404 error of vieing problem statement, login into your gfg account and click
 
 **Day 18** 29/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/total-count2415/1
 
-**Day 13** 24/9/24 PS-Link:   
+**Day 19** 30/9/24 PS-Link:   https://www.geeksforgeeks.org/problems/merge-two-bst-s/1
